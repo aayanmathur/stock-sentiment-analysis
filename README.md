@@ -1,1 +1,1 @@
-# NewsLens-Sentiment-Analysis
+# Stock-Sentiment-Analysis
