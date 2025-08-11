@@ -28,25 +28,3 @@ Sentiment Classification: Classifies each article as Positive, Negative, or Neut
 Aggregation: Calculates weighted overall sentiment score based on confidence levels
 Visualization: Presents results in an interactive dashboard with data tables and charts
 
-
-Usage Examples: 
-
-Basic Analysis
-
-Enter a stock ticker (e.g., "AAPL", "TSLA", "MSFT")
-Click "Analyze Sentiment"
-View overall sentiment score and individual article analysis
-
-Filtered Analysis
-
-Enter stock ticker: "BA"
-Enter keyword: "boeing" or "737"
-Get targeted sentiment analysis for specific topics
-
-
-Business Applications:
-
-Investment Research: Quick sentiment overview before making investment decisions
-Risk Management: Monitor negative sentiment trends for portfolio companies
-Market Analysis: Track overall market sentiment across multiple stocks
-Trading Signals: Incorporate sentiment data into algorithmic trading strategies
