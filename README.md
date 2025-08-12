@@ -1,4 +1,4 @@
-# Stock-Sentiment-Analysis
+# Stock-Sentiment-Analysis-finBERT
 
 A real-time financial sentiment analysis application that leverages advanced NLP models to analyze market sentiment from Yahoo Finance news articles. Built with Streamlit for an intuitive web interface and powered by FinBERT for accurate financial text classification.
 
