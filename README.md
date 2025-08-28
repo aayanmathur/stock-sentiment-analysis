@@ -5,7 +5,7 @@ A real-time financial sentiment analysis application that leverages advanced NLP
 ## Live Demo
 **[View Live App](https://stock-sentiment-analysis-finbert-9ktar2jnumevfvkdpow9y4.streamlit.app)** 
 
-# # Key Features:
+## Key Features:
 
 Real-time News Analysis: Fetches the latest news articles from Yahoo Finance RSS feeds
 Advanced NLP: Uses FinBERT (Financial BERT) - a domain-specific language model trained on financial texts
@@ -15,7 +15,7 @@ Data Visualization: Interactive pie charts showing sentiment distribution
 Flexible Filtering: Optional keyword filtering for targeted analysis
 Performance Optimized: Model caching for faster subsequent analyses
 
-# # Technical Stack:
+## Technical Stack:
 
 Frontend: Streamlit (Python web framework)
 NLP Model: ProsusAI/FinBERT (Hugging Face Transformers)
@@ -23,7 +23,7 @@ Data Processing: Pandas, FeedParser
 Visualization: Matplotlib
 Data Source: Yahoo Finance RSS feeds
 
-# # How It Works:
+## How It Works:
 
 Data Acquisition: Retrieves real-time news articles from Yahoo Finance RSS feeds using the provided stock ticker
 Text Processing: Processes article summaries through the FinBERT pipeline
